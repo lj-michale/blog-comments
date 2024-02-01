@@ -1,0 +1,8 @@
+{
+    "defaultCommentOrder": "newest",
+    "originsRegex": [
+        "https://lj-michale.org",
+        "https://.*\\.lj-michale.org",
+		"https://github.com/lj-michale"
+    ]
+}

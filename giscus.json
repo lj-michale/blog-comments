@@ -3,6 +3,7 @@
     "originsRegex": [
         "https://lj-michale.org",
         "https://.*\\.lj-michale.org",
+		"https://lj-michale.github.io",
 		"https://github.com/lj-michale"
     ]
 }
